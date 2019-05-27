@@ -9,7 +9,7 @@ def assign_variable(value)
 end
 
 def argue(name)
-  name
+  return name
 end
 
 def greeting(a, b)
